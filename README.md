@@ -14,12 +14,18 @@
 ## 📸 Screenshots
 
 HOMEPAGE!
+
+
 <img width="321" alt="Screenshot 2025-06-20 at 12 00 14 AM" src="https://github.com/user-attachments/assets/458ed940-8e87-4703-949f-7dbb1aeebe1c" />
 
 SEARCH FEATURE!
+
+
 <img width="353" alt="Screenshot 2025-06-20 at 12 00 31 AM" src="https://github.com/user-attachments/assets/097440d0-9835-41e7-ae54-41671220831a" />
 
 AI CHATBOT!
+
+
 <img width="336" alt="Screenshot 2025-06-20 at 12 00 44 AM" src="https://github.com/user-attachments/assets/7ce68ae6-40b1-482a-97a6-5c43189cec05" />
 
 
