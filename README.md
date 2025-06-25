@@ -58,7 +58,3 @@ To run the project locally, follow these steps:
 4.  **Run the App:**
     - Select an iPhone simulator from the target device menu at the top of Xcode.
     - Press `Cmd + R` or click the "Play" button to build and run the app.
-
----
-
-*This project was bootstrapped and developed with the help of an AI assistant.* 
