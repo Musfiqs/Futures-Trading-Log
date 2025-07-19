@@ -1,6 +1,6 @@
 # FuturesLog 📈
 
-**FuturesLog** is a modern, intuitive, and powerful trading journal designed specifically for futures traders. Built entirely with SwiftUI, this iOS app provides the tools you need to log, review, and analyze your trading performance with the help of AI-powered insights.
+**FuturesLog** is a modern, intuitive, and powerful trading journal designed specifically for futures traders. Built entirely with SwiftUI, this iOS app provides the tools you need to log, review, and analyze your trading performance with the help of AI-powered insights!
 
 ## ✨ Features
 
